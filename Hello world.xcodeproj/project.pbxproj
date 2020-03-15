@@ -15,6 +15,7 @@
 		1DD99153241E07CC00A011D1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1DD99151241E07CC00A011D1 /* LaunchScreen.storyboard */; };
 		1DD9915E241E07CD00A011D1 /* Hello_worldTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DD9915D241E07CD00A011D1 /* Hello_worldTests.swift */; };
 		1DD99169241E07CD00A011D1 /* Hello_worldUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DD99168241E07CD00A011D1 /* Hello_worldUITests.swift */; };
+		1DD99177241E0A5F00A011D1 /* MyViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DD99176241E0A5F00A011D1 /* MyViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		1DD99164241E07CD00A011D1 /* Hello worldUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Hello worldUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		1DD99168241E07CD00A011D1 /* Hello_worldUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Hello_worldUITests.swift; sourceTree = "<group>"; };
 		1DD9916A241E07CD00A011D1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1DD99176241E0A5F00A011D1 /* MyViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 			children = (
 				1DD99146241E07CC00A011D1 /* AppDelegate.swift */,
 				1DD99148241E07CC00A011D1 /* SceneDelegate.swift */,
+				1DD99176241E0A5F00A011D1 /* MyViewController.swift */,
 				1DD9914A241E07CC00A011D1 /* ViewController.swift */,
 				1DD9914C241E07CC00A011D1 /* Main.storyboard */,
 				1DD9914F241E07CC00A011D1 /* Assets.xcassets */,
@@ -261,6 +264,7 @@
 			files = (
 				1DD9914B241E07CC00A011D1 /* ViewController.swift in Sources */,
 				1DD99147241E07CC00A011D1 /* AppDelegate.swift in Sources */,
+				1DD99177241E0A5F00A011D1 /* MyViewController.swift in Sources */,
 				1DD99149241E07CC00A011D1 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
